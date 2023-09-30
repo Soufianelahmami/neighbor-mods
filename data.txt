@@ -43,13 +43,13 @@
   
   "clicks_to_show_inter": 2,
   "native_rate": 2,
-    "onesignal_id": "xxx",
+    "onesignal_id": "b4ccdc42-b617-4ccf-b4c9-3d403cce8bf2",
 
   "guides": [
 	{
-	 "image": "xxxx",
-	 "title": "00",
-	 "text": "xxxx",
+	 "image": "https://iili.io/JdlJBff.webp",
+	 "title": "neighbor mods",
+	 "text": "Introduce new professions or jobs for neighbors. They could become doctors, police officers, chefs, or any other profession that adds diversity to the neighborhood.",
 	 "text_two": "xxxx",
 
 	 "isLocked": false,
@@ -57,9 +57,9 @@
 
 	},
 	{
-	 "image": "xxxx",
-	 "title": "11",
-	 "text": "xxxx",
+	 "image": "https://iili.io/JdlJCl4.webp",
+	 "title": "neighbor mods",
+	 "text": "Create random events that involve neighbors, such as neighborhood parties, festivals, or emergencies. This could add dynamic elements to the game and make the neighborhood feel more alive.",
 	 "text_two": "xxxx",
 
 	 "isLocked": true,
@@ -67,9 +67,9 @@
 	 
 	},
 	{
-	 "image": "xxxx",
-	 "title": "22",
-	 "text": "xxxx",
+	 "image": "https://iili.io/JdlJFxn.webp",
+	 "title": "neighbor mods",
+	 "text": "Expand the relationship dynamics between the player and their neighbors. Introduce friendship levels, conflicts, or even romantic relationships. This can impact the gameplay and add a social aspect to the game.",
 	 "text_two": "xxxx",
 
 	 "isLocked": false,
@@ -77,9 +77,9 @@
 
 	},
 	{
-	"image": "xxxx",
-	 "title": "33",
-	 "text": "xxxx",
+	"image": "https://iili.io/JdlJ2DX.webp",
+	 "title": "neighbor mods",
+	 "text": "Develop a series of quests or missions involving neighbors. This could include helping them with tasks, solving problems, or participating in joint activities. Completing these quests could lead to rewards or positive changes in the neighborhood.",
 	 "text_two": "xxxx",
 
 	 "isLocked": false,
@@ -87,9 +87,9 @@
 
 	},
 	{
-	"image": "xxxx",
-	 "title": "44",
-	 "text": "xxxx",
+	"image": "https://iili.io/JdlJfiG.webp",
+	 "title": "neighbor mods",
+	 "text": "Allow players to customize the appearance of their neighbors. This could include clothing, hairstyles, and even home decorations. It adds a personal touch to the neighborhood and allows players to create a unique gaming experience",
 	 "text_two": "xxxx",
 
 	 "isLocked": false,
@@ -97,9 +97,9 @@
 
 	},
 	{
-	"image": "xxxx",
-	 "title": "55",
-	 "text": "xxxx",
+	"image": "https://iili.io/JdlJKVs.webp",
+	 "title": "neighbor mods",
+	 "text": "Create friendly competitions between neighbors. This could be in the form of sports, cooking, or gardening competitions. Winning these competitions could lead to rewards or increased standing in the neighborhood.",
 	 "text_two": "xxxx",
 
 	 "isLocked": false,
